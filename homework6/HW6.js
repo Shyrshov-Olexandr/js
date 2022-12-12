@@ -165,4 +165,4 @@ deck.reduce((accum, value) => {
   diamonds:[],
   hearts:[],
   clubs:[]
-})
+});
