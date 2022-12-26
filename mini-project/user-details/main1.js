@@ -73,8 +73,6 @@ button.onclick = () => {
         const postsDivTitle = document.createElement('div');
         postsDivTitle.classList.add('postDivElemStyle');
 
-
-
         const postsDivBody = document.createElement('div');
         postsDivBody.classList.add('postDivElemStyle');
 
